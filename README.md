@@ -1,8 +1,8 @@
 # Budget Buddy Spending Prediction Service
 
 ## Overview
-This repository contains the Prophet-based service that predicts future spending trends for Budget Buddy, a financial planning system. 
-The service processes real and synthetic transaction data to generate accurate forecasts and helps users plan their financial future.
+This is a Python-based service that leverages the Prophet library to predicts future spending trends for Budget Buddy.
+The service processes transaction data to generate accurate forecasts.
 
 ## Disclaimer
 This service is a **work in progress**. Certain features may not work as expected. 
